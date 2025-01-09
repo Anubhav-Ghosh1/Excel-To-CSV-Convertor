@@ -10,11 +10,12 @@
     - It saves the DataFrame to a CSV file using the to_csv method.
 
 # How to run?
-    1. Data generation
-    ```
-        python generate.py
-    ```
-    2. Excel to CSV Convertor
-    ```
-        python main.py
-    ```
+1. Data generation
+```
+python generate.py
+```
+    
+2. Excel to CSV Convertor
+```
+python main.py
+```
